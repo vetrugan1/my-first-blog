@@ -1,0 +1,127 @@
+[33mcommit aa97492aa07a5aaf69af19c433780412f64d2069[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: vetrugan <vetrugan12@gmail.com>
+Date:   Tue Sep 5 11:56:14 2017 +0300
+
+    AAAA!
+
+[33mcommit e8fa95d71d32308165841b3e084953b89617e784[m
+Author: vetrugan <vetrugan12@gmail.com>
+Date:   Tue Sep 5 10:48:31 2017 +0300
+
+    Finally!This Poject is done!
+
+[33mcommit bc4c50d1bd52575f1bb2d90f35baff62002c85b8[m
+Author: vetrugan <vetrugan12@gmail.com>
+Date:   Fri Sep 1 20:08:52 2017 +0300
+
+    DEBUG = False
+
+[33mcommit ac63038ef11fa7de9fd0c686eca9643c8ef8a023[m
+Merge: f452ea3 143885d
+Author: vetrugan <vetrugan12@gmail.com>
+Date:   Fri Sep 1 16:40:02 2017 +0300
+
+    Merge branch 'master' of https://github.com/vetrugan1/my-first-blog
+
+[33mcommit f452ea3d1bffb8509677df71df04e4ceb5d7823a[m[33m ([m[1;32mvetrugan[m[33m)[m
+Author: vetrugan <vetrugan12@gmail.com>
+Date:   Fri Sep 1 16:38:15 2017 +0300
+
+    Added views to create/edit blog post inside the site.
+
+[33mcommit 143885d89d590fd5e90eabd1361e720034903c07[m
+Author: vetrugan <vetrugan12@gmail.com>
+Date:   Thu Aug 31 22:49:15 2017 +0300
+
+    Update base.html
+    
+    Norm
+
+[33mcommit 7b760a92f856defce208c905e2cce5c8546e0371[m
+Author: vetrugan <vetrugan12@gmail.com>
+Date:   Thu Aug 31 22:22:19 2017 +0300
+
+    Added views to create/edit blog post inside the site.
+
+[33mcommit bc8ad05b1e7056e36c8e8c8d838913c1f8a7cb0d[m
+Author: vetrugan <vetrugan12@gmail.com>
+Date:   Thu Aug 31 21:34:43 2017 +0300
+
+    Added views to create/edit blog post inside the site.(3)
+
+[33mcommit 575f3008acdb1bd0be2ef4dff36dab89481db4b3[m
+Author: vetrugan <vetrugan12@gmail.com>
+Date:   Thu Aug 31 21:24:29 2017 +0300
+
+    Added view to create/edit blog post inside the site.
+
+[33mcommit 98e020c154e80d35a4e7900d1de54683c1700361[m
+Author: vetrugan <vetrugan12@gmail.com>
+Date:   Thu Aug 31 21:23:27 2017 +0300
+
+    Added view to create/edit blog post inside the site.
+
+[33mcommit 8a28d1f443e2c4bc92e793434a7a0bb1f7cf30a9[m
+Author: vetrugan <vetrugan12@gmail.com>
+Date:   Thu Aug 31 21:15:10 2017 +0300
+
+    Added view to create/edit blog post inside the site..
+
+[33mcommit 3234d340c2e382361c6c25f436cdafef2b30ca58[m
+Author: vetrugan <vetrugan12@gmail.com>
+Date:   Thu Aug 31 21:14:36 2017 +0300
+
+    Added views to create/edit blog post inside the site.
+
+[33mcommit f32d81b3fde0e387d174bf40712978bbb6d9a065[m
+Author: vetrugan <vetrugan12@gmail.com>
+Date:   Wed Aug 30 17:49:13 2017 +0300
+
+    Added view to create/edit blog post inside the site.
+
+[33mcommit 97dfd71c93a43f193262152a314bf38216ded6fb[m
+Author: vetrugan <vetrugan12@gmail.com>
+Date:   Tue Aug 29 16:17:22 2017 +0300
+
+    Added view and template for detailed blog post as well as CSS for the site.
+
+[33mcommit 97d870e6f463969754e96c3f0b975af91e47f6d2[m
+Author: vetrugan <vetrugan12@gmail.com>
+Date:   Mon Aug 28 15:22:10 2017 +0300
+
+    Modified templates to display posts from database.
+
+[33mcommit ccc4a3851f229acfc69924f3a951ec1f64b24a97[m
+Merge: 35b2f5d bdca0f5
+Author: vetrugan <vetrugan12@gmail.com>
+Date:   Fri Aug 25 16:49:30 2017 +0300
+
+    Merge branch 'master' of https://github.com/vetrugan1/my-first-blog
+
+[33mcommit 35b2f5ddcfe6c761d17a9fef82db5acd64f2bee6[m
+Author: vetrugan <vetrugan12@gmail.com>
+Date:   Fri Aug 25 16:44:44 2017 +0300
+
+    Changed the HTML for the site.
+
+[33mcommit bdca0f5780de2d3e5838955ad3db89fe9f8e22be[m
+Author: vetrugan <vetrugan12@gmail.com>
+Date:   Fri Aug 25 14:54:58 2017 +0300
+
+    Update settings.py
+    
+    My Django Girls app, fix ALLOWED_HOSTS commit
+
+[33mcommit 442ad56c1f3fdbf9d9d5c27415baf2408def4da7[m
+Author: vetrugan <vetrugan12@gmail.com>
+Date:   Fri Aug 25 14:49:45 2017 +0300
+
+    Update settings.py
+    
+    My Django Girls app, fix ALLOWED_HOSTS commit
+
+[33mcommit f0dbaaf3fdefa2a19c8c5b12348e4afeb5645bcf[m
+Author: vetrugan <vetrugan12@gmail.com>
+Date:   Wed Aug 23 15:15:58 2017 +0300
+
+    My Django Girls app, first commit
