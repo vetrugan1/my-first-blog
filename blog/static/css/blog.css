@@ -14,12 +14,12 @@ h1 a {
 }
 
 #footer div {
-  padding: 10px;
-  background: #FCA205;
+  padding: 10px 20px 10px 10px;
+  background: #6699CC;
 }
 
 .page-header {
-  background-color: #ff9400;
+  background-color: #99CCFF;
   margin-top: 0;
   padding: 20px 20px 20px 40px;
 }
@@ -70,4 +70,12 @@ h1, h2, h3, h4 {
 
 .comment {
   margin: 20px 0px 20px 20px;
+}
+
+small {
+    color: #DFE223;
+}
+
+small a {
+  color: #91B958;
 }
